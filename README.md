@@ -1,4 +1,4 @@
-# SocialDApp - Decentralized Social Media Platform
+# SocialDApp - Decentralized Social Media Dapp
 
 Build & Deploy Decentralized (Web3) Social Media DApp | Solidity, Next.js, Hardhat, Wagmi Tutorial (Full Stack Web3 Project)
 
@@ -12,11 +12,11 @@ A beautiful, feature-rich decentralized social media platform built with Next.js
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](<https://www.theblockchaincoders.com/sourceCode/build-and-deploy-decentralized-(web3)-social-media-dapp-or-solidity-next.js-hardhat-wagmi-tutorial-(full-stack-web3-project)>)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/2MZZ4MDlKh8?si=s037n78lvBXAYVvs)
 
 ## 🚀 Features
 
@@ -107,8 +107,8 @@ Before you begin, ensure you have:
 #### FINAL SOURCE CODE
 
 ```
-  SETUP VIDEO:
-  URL:
+  SETUP VIDEO: https://youtu.be/2MZZ4MDlKh8?si=s037n78lvBXAYVvs
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-decentralized-(web3)-social-media-dapp-or-solidity-next.js-hardhat-wagmi-tutorial-(full-stack-web3-project)
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
