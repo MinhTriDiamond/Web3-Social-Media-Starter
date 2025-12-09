@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const ai-chat = () => {
+const AiChat = () => {
   return (
     <div>ai-chat</div>
-  )
-}
+  );
+};
 
-export default ai-chat
+export default AiChat;
