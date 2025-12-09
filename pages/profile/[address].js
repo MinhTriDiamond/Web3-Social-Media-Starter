@@ -1,7 +1,16 @@
 import React from "react";
+import { useRouter } from "next/router";
 
-const [address] = () => {
-  return <div>[address]</div>;
+const ProfileAddressPage = () => {
+  const router = useRouter();
+  const { address } = router.query;
+
+  return (
+    <div style={{ padding: "1rem" }}>
+      <h1>Profile page</h1>
+      <p>Address: {address}</p>
+    </div>
+  );
 };
 
-export default [address];
+export default ProfileAddressPage;
